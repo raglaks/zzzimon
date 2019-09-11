@@ -1,0 +1,24 @@
+{
+  "name": "graphzzz",
+  "version": "0.0.1",
+  "description": "3d graphs with zzz.dog",
+  "main": "index.js",
+  "scripts": {
+    "aber": "touch index.html js.js css.css && python -m 'SimpleHTTPServer'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vzalberto/graphzzz.git"
+  },
+  "keywords": [
+    "3d",
+    "zzz",
+    "chart"
+  ],
+  "author": "vzalberto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vzalberto/graphzzz/issues"
+  },
+  "homepage": "https://github.com/vzalberto/graphzzz#readme"
+}
